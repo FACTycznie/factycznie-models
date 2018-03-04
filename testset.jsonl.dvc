@@ -1,0 +1,6 @@
+cmd: python testset/parse_raw_testset.py data/testset.raw.tsv data/testset.jsonl
+deps: []
+outs:
+- cache: true
+  md5: 88c3096caf4687fb58e1ade833b21bbc
+  path: data/testset.jsonl
