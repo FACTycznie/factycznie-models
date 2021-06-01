@@ -74,5 +74,5 @@ rsa==3.4.2
 six==1.11.0
 smmap2==2.0.3
 tinydb==3.8.0
-urllib3==1.22
+urllib3==1.26.5
 zc.lockfile==1.2.1
